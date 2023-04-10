@@ -24,7 +24,7 @@ public class notas {
 	 * Método para ingresar notas de un estudiante
 	 */
 
-	public void IngresaNotas() {
+	public void IngresarNotas() {
 		/**
 		 * Cuando ejecutamos este método queremos que nos pida notas
 		 */
@@ -134,7 +134,7 @@ public class notas {
 		 */
 		notas fc = new notas();
 
-		fc.IngresaNotas();
+		fc.IngresarNotas();
 
 		fc.comprobacion();
 
